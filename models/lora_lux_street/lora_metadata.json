@@ -1,0 +1,6 @@
+{
+  "style": "minimalist_luxury_streetwear",
+  "trigger": "lux_street",
+  "steps": 300,
+  "final_loss": 0.0775
+}
