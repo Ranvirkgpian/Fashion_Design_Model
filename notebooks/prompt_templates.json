@@ -1,0 +1,71 @@
+{
+  "base_structure": "full body fashion photograph of a {gender} wearing {description}, {style} style, {background} background, professional fashion photography, sharp focus, high resolution",
+  "quality_boosters": [
+    "vogue editorial style",
+    "sharp focus",
+    "high resolution",
+    "professional fashion photography",
+    "soft studio lighting",
+    "8k uhd",
+    "detailed fabric texture"
+  ],
+  "negative_prompt": "blurry, low quality, distorted, ugly, watermark, bad anatomy, deformed, extra limbs, disfigured, out of frame, fabric pattern only, no model",
+  "by_category": {
+    "Topwear": {
+      "women": "full body fashion photograph of a young woman wearing {color} {article_type}, {usage} style, white studio background, professional fashion photography, sharp focus, high resolution, editorial",
+      "men": "full body fashion photograph of a young man wearing {color} {article_type}, {usage} style, white studio background, professional fashion photography, sharp focus, high resolution"
+    },
+    "Bottomwear": {
+      "women": "full body fashion photograph of a young woman wearing {color} {article_type} with a white top, {usage} style, white studio background, professional fashion photography, sharp focus",
+      "men": "full body fashion photograph of a young man wearing {color} {article_type} with a white shirt, {usage} style, white studio background, professional fashion photography, sharp focus"
+    },
+    "Ethnic": {
+      "women": "full body fashion photograph of a young indian woman wearing {color} {article_type}, traditional ethnic wear, {usage} style, white studio background, professional photography, sharp focus",
+      "men": "full body fashion photograph of a young indian man wearing {color} {article_type}, traditional ethnic wear, {usage} style, white studio background, professional photography, sharp focus"
+    },
+    "Footwear": {
+      "all": "close up product photograph of {color} {article_type}, white studio background, professional product photography, sharp focus, high resolution"
+    },
+    "Accessories": {
+      "all": "close up product photograph of {color} {article_type}, white studio background, professional product photography, sharp focus, high resolution, detailed"
+    },
+    "Formal": {
+      "women": "full body fashion photograph of a young woman wearing {color} formal {article_type}, professional business attire, white studio background, editorial photography, sharp focus",
+      "men": "full body fashion photograph of a young man wearing {color} formal {article_type}, professional business attire, white studio background, editorial photography, sharp focus"
+    }
+  },
+  "example_prompts": [
+    {
+      "category": "Topwear",
+      "gender": "Women",
+      "colour": "Red",
+      "article": "Tshirts",
+      "usage": "Casual",
+      "prompt": "full body fashion photograph of a young woman wearing red casual tshirt, high waist jeans, casual style, white studio background, professional fashion photography, sharp focus, high resolution"
+    },
+    {
+      "category": "Ethnic",
+      "gender": "Men",
+      "colour": "Navy Blue",
+      "article": "Kurtas",
+      "usage": "Casual",
+      "prompt": "full body fashion photograph of a young indian man wearing navy blue cotton kurta with white pyjama, traditional ethnic wear, casual style, white studio background, professional fashion photography, sharp focus, high resolution"
+    },
+    {
+      "category": "Formal",
+      "gender": "Men",
+      "colour": "Charcoal Grey",
+      "article": "Suits",
+      "usage": "Formal",
+      "prompt": "full body fashion photograph of a young man wearing charcoal grey slim fit formal suit, crisp white shirt, confident pose, white studio background, editorial fashion photography, sharp focus, high resolution"
+    },
+    {
+      "category": "Bottomwear",
+      "gender": "Women",
+      "colour": "Black",
+      "article": "Jeans",
+      "usage": "Casual",
+      "prompt": "full body fashion photograph of a young woman wearing black high waist jeans with white oversized tshirt, casual streetwear style, white studio background, professional fashion photography, sharp focus"
+    }
+  ]
+}
