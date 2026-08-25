@@ -1,0 +1,58 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: celery-worker
+  labels:
+    app: celery-worker
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: celery-worker
+  template:
+    metadata:
+      labels:
+        app: celery-worker
+    spec:
+      containers:
+        - name: worker
+          image: fashion-ai-assistant:latest
+          command: ["celery", "-A", "scripts.celery_worker", "worker", "--loglevel=info"]
+          resources:
+            limits:
+              nvidia.com/gpu: 1
+              memory: "16Gi"
+          env:
+            - name: REDIS_HOST
+              value: "redis-service"
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: redis
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: redis
+  template:
+    metadata:
+      labels:
+        app: redis
+    spec:
+      containers:
+        - name: redis
+          image: redis:7-alpine
+          ports:
+            - containerPort: 6379
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: redis-service
+spec:
+  selector:
+    app: redis
+  ports:
+    - port: 6379
+      targetPort: 6379
