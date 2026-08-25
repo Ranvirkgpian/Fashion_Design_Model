@@ -1,0 +1,28 @@
+{
+  "collection_size": 1996,
+  "text_search_demo": [
+    {
+      "query": "minimalist black outfit for casual wear",
+      "gender_filter": "Women"
+    },
+    {
+      "query": "formal navy blue business attire",
+      "gender_filter": "Men"
+    },
+    {
+      "query": "cozy winter layering pieces",
+      "gender_filter": null
+    }
+  ],
+  "complete_look_demo": [
+    {
+      "base_item": "Charcoal Briefs for Men, Resort Casual style, Casual occasion, Summer season"
+    },
+    {
+      "base_item": "Blue Jeans for Women, Transitional Layers style, Casual occasion, Fall season"
+    },
+    {
+      "base_item": "Black Sunglasses for Unisex, Cozy Layering style, Casual occasion, Winter season"
+    }
+  ]
+}

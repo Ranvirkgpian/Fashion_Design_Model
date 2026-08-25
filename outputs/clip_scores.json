@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Pink Floral Dress",
+    "raw_score": 28.97,
+    "normalized": 96.6
+  },
+  {
+    "label": "Navy Blue Kurta",
+    "raw_score": 32.73,
+    "normalized": 100
+  },
+  {
+    "label": "Charcoal Grey Suit",
+    "raw_score": 29.75,
+    "normalized": 99.2
+  },
+  {
+    "label": "Streetwear Outfit",
+    "raw_score": 29.37,
+    "normalized": 97.9
+  }
+]

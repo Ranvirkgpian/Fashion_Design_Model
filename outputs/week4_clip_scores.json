@@ -1,0 +1,17 @@
+[
+  {
+    "label": "LoRA output \u2014 Original",
+    "score": 34.23,
+    "pct": 100
+  },
+  {
+    "label": "LoRA output \u2014 Fixed",
+    "score": 33.62,
+    "pct": 100
+  },
+  {
+    "label": "Base SDXL (no LoRA) \u2014 baseline",
+    "score": 20.96,
+    "pct": 69.9
+  }
+]
