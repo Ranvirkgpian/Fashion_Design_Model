@@ -1,0 +1,96 @@
+{
+  "collections": {
+    "Evening Elegance": {
+      "files": [
+        "01_emerald_gown.png",
+        "02_burgundy_dress.png",
+        "03_champagne_gown.png",
+        "04_navy_cocktail.png"
+      ],
+      "scores": [
+        0.261,
+        0.298,
+        0.285,
+        0.242
+      ],
+      "avg_score": 0.272
+    },
+    "Minimalist Streetwear": {
+      "files": [
+        "05_lux_street_black.png",
+        "06_lux_street_beige.png",
+        "07_lux_street_grey.png",
+        "08_lux_street_white.png"
+      ],
+      "scores": [
+        0.29,
+        0.325,
+        0.282,
+        0.288
+      ],
+      "avg_score": 0.296
+    },
+    "Ethnic Heritage": {
+      "files": [
+        "09_navy_kurta.png",
+        "10_maroon_saree.png",
+        "11_green_sherwani.png",
+        "12_pink_lehenga.png"
+      ],
+      "scores": [
+        0.29,
+        0.308,
+        0.283,
+        0.282
+      ],
+      "avg_score": 0.291
+    },
+    "Business Formal": {
+      "files": [
+        "13_charcoal_suit.png",
+        "14_navy_blazer.png",
+        "15_black_pantsuit.png",
+        "16_grey_three_piece.png"
+      ],
+      "scores": [
+        0.275,
+        0.271,
+        0.274,
+        0.276
+      ],
+      "avg_score": 0.274
+    },
+    "Casual Everyday": {
+      "files": [
+        "17_denim_jacket.png",
+        "18_khaki_chinos.png",
+        "19_floral_sundress.png",
+        "20_striped_polo.png"
+      ],
+      "scores": [
+        0.255,
+        0.26,
+        0.246,
+        0.276
+      ],
+      "avg_score": 0.259
+    },
+    "Sport & Athleisure": {
+      "files": [
+        "21_black_tracksuit.png",
+        "22_grey_joggers.png",
+        "23_yoga_set.png",
+        "24_running_gear.png"
+      ],
+      "scores": [
+        0.274,
+        0.289,
+        0.27,
+        0.284
+      ],
+      "avg_score": 0.279
+    }
+  },
+  "overall_avg": 0.279,
+  "total_designs": 24
+}

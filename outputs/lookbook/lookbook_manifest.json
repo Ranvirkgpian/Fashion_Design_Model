@@ -1,0 +1,122 @@
+[
+  {
+    "file": "01_emerald_gown.png",
+    "collection": "Evening Elegance",
+    "status": "success"
+  },
+  {
+    "file": "02_burgundy_dress.png",
+    "collection": "Evening Elegance",
+    "status": "success"
+  },
+  {
+    "file": "03_champagne_gown.png",
+    "collection": "Evening Elegance",
+    "status": "success"
+  },
+  {
+    "file": "04_navy_cocktail.png",
+    "collection": "Evening Elegance",
+    "status": "success"
+  },
+  {
+    "file": "05_lux_street_black.png",
+    "collection": "Minimalist Streetwear",
+    "status": "success"
+  },
+  {
+    "file": "06_lux_street_beige.png",
+    "collection": "Minimalist Streetwear",
+    "status": "success"
+  },
+  {
+    "file": "07_lux_street_grey.png",
+    "collection": "Minimalist Streetwear",
+    "status": "success"
+  },
+  {
+    "file": "08_lux_street_white.png",
+    "collection": "Minimalist Streetwear",
+    "status": "success"
+  },
+  {
+    "file": "09_navy_kurta.png",
+    "collection": "Ethnic Heritage",
+    "status": "success"
+  },
+  {
+    "file": "10_maroon_saree.png",
+    "collection": "Ethnic Heritage",
+    "status": "success"
+  },
+  {
+    "file": "11_green_sherwani.png",
+    "collection": "Ethnic Heritage",
+    "status": "success"
+  },
+  {
+    "file": "12_pink_lehenga.png",
+    "collection": "Ethnic Heritage",
+    "status": "success"
+  },
+  {
+    "file": "13_charcoal_suit.png",
+    "collection": "Business Formal",
+    "status": "success"
+  },
+  {
+    "file": "14_navy_blazer.png",
+    "collection": "Business Formal",
+    "status": "success"
+  },
+  {
+    "file": "15_black_pantsuit.png",
+    "collection": "Business Formal",
+    "status": "success"
+  },
+  {
+    "file": "16_grey_three_piece.png",
+    "collection": "Business Formal",
+    "status": "success"
+  },
+  {
+    "file": "17_denim_jacket.png",
+    "collection": "Casual Everyday",
+    "status": "success"
+  },
+  {
+    "file": "18_khaki_chinos.png",
+    "collection": "Casual Everyday",
+    "status": "success"
+  },
+  {
+    "file": "19_floral_sundress.png",
+    "collection": "Casual Everyday",
+    "status": "success"
+  },
+  {
+    "file": "20_striped_polo.png",
+    "collection": "Casual Everyday",
+    "status": "success"
+  },
+  {
+    "file": "21_black_tracksuit.png",
+    "collection": "Sport & Athleisure",
+    "status": "success"
+  },
+  {
+    "file": "22_grey_joggers.png",
+    "collection": "Sport & Athleisure",
+    "status": "success"
+  },
+  {
+    "file": "23_yoga_set.png",
+    "collection": "Sport & Athleisure",
+    "status": "success"
+  },
+  {
+    "file": "24_running_gear.png",
+    "collection": "Sport & Athleisure",
+    "status": "success"
+  }
+]
